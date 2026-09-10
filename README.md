@@ -166,3 +166,4 @@
     <img src="https://img.shields.io/badge/Follow_Me_On_GitHub-yash632-39D353?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+<!-- Verified Contributor Badge -->
